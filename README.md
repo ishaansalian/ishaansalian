@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PCB Design**, **Embedded Systems**, or **Control Systems**.
 
-- 📫 How to reach me: **ishaan.salian@example.com**
+- 📫 How to reach me: **isalian@umass.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
