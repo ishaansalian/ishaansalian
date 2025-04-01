@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ishaan Salian</h1>
-<h3 align="center">A controls and electrical engineering student with a passion for embedded systems</h3>
+<h1 align="center">Hi 👋, I'm Ishaan</h1>
+<h3 align="center">A computer engineering student with a passion for embedded systems and mechatronics</h3>
 
 - 🌱 I’m currently working on **network-embedded systems** and **time synchronization** projects
 
