@@ -16,7 +16,7 @@
 
 <h3 align="left">Portfolio:</h3>
 <p>
-<a href="[https://linkedin.com/in/ishaan-salia](https://ishaansalian.github.io/Portfolio/)n" target="blank"><img align="center" src="https://github.com/ishaansalian/Portfolio/blob/main/images/Logo.svg" alt="ishaan-salian" height="30" width="40" /></a> <h3>Portfolio</h3>
+<a href="https://ishaansalian.github.io/Portfolio/" target="blank"><img align="center" src="https://github.com/ishaansalian/Portfolio/blob/main/images/Logo.svg" alt="ishaan-salian" height="30" width="40" /></a> <h3>Portfolio</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
