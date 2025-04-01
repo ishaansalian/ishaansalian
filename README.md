@@ -9,12 +9,12 @@
 
 - 📫 How to reach me: **isalian@umass.edu**
 
-<h3 align="left">Quick Links:</h3>
+<h3 align="left">LinkedIn:</h3>
 <p>
 <a href="https://linkedin.com/in/ishaan-salian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaan-salian" height="30" width="40" /></a>
-<h3>LinkedIn</h3>
 </p>
 
+<h3 align="left">Portfolio:</h3>
 <p>
 <a href="[https://linkedin.com/in/ishaan-salia](https://ishaansalian.github.io/Portfolio/)n" target="blank"><img align="center" src="https://github.com/ishaansalian/Portfolio/blob/main/images/Logo.svg" alt="ishaan-salian" height="30" width="40" /></a> <h3>Portfolio</h3>
 </p>
